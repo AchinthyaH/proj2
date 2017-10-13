@@ -1,0 +1,6 @@
+node {
+
+   stage('Preparation') {
+	git 'https://github.com/AchinthyaH/proj2.git'
+      
+ }
